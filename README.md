@@ -1,2 +1,2 @@
-# dev_RRH7
-Out of band R dev for RHEL7
+# dev_R4RH7
+R v4 Development and Deployment
