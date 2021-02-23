@@ -44,7 +44,7 @@
     - devtools7
 #   - python2RH7
 #   - python3RH7
-    - r_RH7
+    - r4_RH7
 
 # hosts: research_python
 # become: yes
